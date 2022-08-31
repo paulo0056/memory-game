@@ -18,9 +18,9 @@ header {
   width: 100%;
   max-width: 800px;
   background-color: rgba(255, 255, 255, 0.8);
-  font-size: 1.2em;
-  padding: 30px;
-  margin: 0 0 30px;
+  font-size: 1em;
+  padding: 18px;
+  margin: 0 0 10px;
   border-radius: 5px;
 }
 
@@ -30,8 +30,7 @@ header {
   gap: 15px;
   width: 100%;
   max-width: 800px;
-  margin: 0 auto;
-  margin: 100px auto;
+  margin: 10px auto;
 }
 
 .card {
